@@ -1,0 +1,14 @@
+Dựa trên Shoe shop 1.0, ta có các đường dẫn sau:
+    - SHOP:         https://shoe-shop-1.ctf.zone/index.php?page=shop
+    - LOGIN:        https://shoe-shop-1.ctf.zone/index.php?page=login
+    - REGISTER:     https://shoe-shop-1.ctf.zone/index.php?page=register
+    - AIR MINIMUM:  https://shoe-shop-1.ctf.zone/index.php?page=shoe&id=1
+    - HU:           https://shoe-shop-1.ctf.zone/index.php?page=cart&id=2890
+Mục tiêu: Chuyển về https://shoe-shop-1.ctf.zone/index.php?page=cart&id=1
+
+Bên Shoe shop 2.0: 
+    - SHOP:         https://shoe-shop-2.ctf.zone/index.php?UwKmiR-yYPBN4dCZODtKt70WKPqfUffk6x6xng0AEEk
+    - LOGIN:        https://shoe-shop-2.ctf.zone/index.php?2T02vAKMpdwc5GoP2rVC8STP9_GoZrZpJZAImpqLmDo
+    - REGISTER:     https://shoe-shop-2.ctf.zone/index.php?WpQe5U6OIGUZaEW_OSvwA4QSR32Diq2OBTzW3TGQ7MQ
+    - AIR MINIMUM:  https://shoe-shop-2.ctf.zone/index.php?yVeIqKjbSyatrUOmerXJqP-YcsNnqjkRSSw0TiO5PUs 
+    - HU:           https://shoe-shop-2.ctf.zone/index.php?L2wo57C6cIGEakZrEAv7ayyXkp4Tem1MMBlmbnw44oXma4rwHvInXQk3_JFHNTlu
