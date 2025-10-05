@@ -18,3 +18,5 @@ pyenv.cfg
 /Lib
 /Scripts
 /share
+
+/kernel
