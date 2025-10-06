@@ -6,3 +6,7 @@ pydub
 gmpy2
 sympy
 galois
+
+
+pwn
+pycryptodome

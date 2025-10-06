@@ -1,7 +1,7 @@
 import random, os
 
 p = 2 ** 256 - 189
-FLAG = os.getenv("FLAG", "SEKAI{}")
+FLAG = "SEKAI{ https://youtu.be/XGxIE1hr0w4 }"
 
 def challenge(secret):
 	t = int(input())
