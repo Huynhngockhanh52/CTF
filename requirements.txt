@@ -10,3 +10,6 @@ galois
 
 pwn
 pycryptodome
+tqdm
+collections
+timeout-decorator
