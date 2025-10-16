@@ -11,7 +11,7 @@
 
 ## **2. Nền tảng toán học**
 ### *2.1 Đường cong elliptic và isogenies*
-- **Đường cong elliptic** $ E $ qua trường hữu hạn $\mathbb{F}_p $ có tập điểm $E(\mathbb{F}_{p^2}) $.
+- **Đường cong elliptic** $E$ qua trường hữu hạn $\mathbb{F}_p$ có tập điểm $E(\mathbb{F}_{p^2})$.
 - Một **isogeny** $\phi : E \to E'$ là một morphism nhóm (hàm đồng cấu nhóm) có **kernel** (một subgroup hữu hạn). Độ (**degree**) của isogeny thường là kích thước của kernel.
 - Composition các isogenies tương đương với phép nhân các lý tưởng tương ứng; các isogenies tạo thành một **đồ thị isogeny (isogeny graph)** giữa các đường cong.
 
@@ -24,8 +24,8 @@
 ---
 
 ### *2.3. Class group action (ý tưởng chính)*
-- Có một **order** $ \mathcal{O} $ (ví dụ một order trong một trường tưởng tượng) có **ideal class group** $ Cl(\mathcal{O}) $.
-- Thành phần của $ Cl(\mathcal{O}) $ tác động lên các *isomorphism class* của các đường cong với cấu trúc $ \mathcal{O} $-module (về mặt trực quan: “lấy đường cong và áp ideal” để sinh ra đường cong mới).
+- Có một **order** $\mathcal{O}$ (ví dụ một order trong một trường tưởng tượng) có **ideal class group** $Cl(\mathcal{O})$.
+- Thành phần của $Cl(\mathcal{O})$ tác động lên các *isomorphism class* của các đường cong với cấu trúc $\mathcal{O}$-module (về mặt trực quan: “lấy đường cong và áp ideal” để sinh ra đường cong mới).
 - Hành động này là **giao hoán (commutative)**, nên có thể dùng cho Diffie–Hellman.
 
 ---
